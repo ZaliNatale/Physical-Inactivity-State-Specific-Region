@@ -21,7 +21,13 @@ This repository contains data about Physical inactivity statistics in states of 
 - This data could be used by doctors to help advise individuals about potiental negative affects of being physically inactive towards your overall health.
 - Individuals in the general public could also use this repository to create a subset for the region they live in.
 
-### ADD ONLINE IMAGE OF DATA VISUALIZATION TO ILLUSTRATE
+### Data Visualization
+
+- The subset created using the process outlined in the Python notebook was slightly altered using Microsoft Excel. Both the original subset and the altered subset for the visual can be found in the files of this repository.
+- Miscrosoft Excel was used to make this visualization
+
+## Physical Inactivity Statistics
+Differences in Physical Inactivity by state within the North, West, and Southeast Region
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's English 105 class Fall 2024 semester at the Univeristy of North Carolina at Chapel Hill.
