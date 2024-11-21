@@ -27,7 +27,8 @@ This repository contains data about Physical inactivity statistics in states of 
 - Miscrosoft Excel was used to make this visualization
 
 ### Physical Inactivity Statistics
-Differences in Physical Inactivity by state within the North, West, and Southeast Region
+Differences in Physical Inactivity by state within the South, Midwest, West, and Northeast region.
+- (made a chart in Miscrsoft excel, but do not know how to insert it)
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's English 105 class Fall 2024 semester at the Univeristy of North Carolina at Chapel Hill.
