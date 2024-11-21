@@ -1,6 +1,6 @@
-# Physical-Inactivity-West-Region
+# Physical Inactivity in States within the West Region
 
-This repository contains data about Physical inactivity statistics of the West region correlated with specific states. 
+This repository contains data about Physical inactivity statistics of the West region correlated with states within. 
 
 - It contains the raw data set and the subset of data that was created by manipulating the raw data using Python3.
 - The repository also includes the Python notebook that documents the process for crafting the subset of data from the original data.
