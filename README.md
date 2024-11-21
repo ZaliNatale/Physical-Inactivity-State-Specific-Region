@@ -5,7 +5,7 @@ This repository contains data about Physical inactivity statistics of the West r
 - It contains the raw data set and the subset of data that was created by manipulating the raw data using Python3.
 - The repository also includes the Python notebook that documents the process for crafting the subset of data from the original data.
 
-## What is the Purpose of this Repository?
+## What is the purpose of this Repository?
 
 - The purpose of this Repository is to bring awareness to the amount of physical inactivity in the West region and how it differs from sate to state.
 - This data could be for fitness instructors, doctors, or just individuals interested in learning about physical inactivty statistic within states of the west region. 
