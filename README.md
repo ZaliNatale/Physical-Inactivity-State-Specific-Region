@@ -10,11 +10,6 @@ This repository contains data about Physical inactivity statistics in states of 
 - The purpose of this Repository is to bring awareness to the amount of physical inactivity in different states and how it differs from region to region.
 - This data could be for fitness instructors, doctors, or just individuals interested in learning about physical inactivty statistic in states of specific regions.
 
-## Where is this data from?
-
-- This data is from County Public Health (CSV)
-- Provided by Prof. Gotlzer
-
 ## What could this data be used for?
 
 - This data could persuade fitness instructors in the specific regions to adjust their classes and workouts to be more convenient, accessible, and affordable.
@@ -29,6 +24,12 @@ This repository contains data about Physical inactivity statistics in states of 
 ### Physical Inactivity Statistics
 Differences in Physical Inactivity by state within the South, Midwest, West, and Northeast region.
 - (made a chart in Miscrsoft excel, but do not know how to insert it)
+
+## Where is this data from?
+
+- This data is from County Public Health between the years 2014-2015
+> Original data was condensed to form the subset according to the steps in Unit_3_Project_Panda_Data
+- Data was provided by Professor Gotzler
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's English 105 class Fall 2024 semester at the Univeristy of North Carolina at Chapel Hill.
