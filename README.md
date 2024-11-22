@@ -26,9 +26,9 @@ Differences in Physical Inactivity by state within the South, Midwest, West, and
 
 ## Where is this data from?
 
-- This data is from County Public Health between the years 2014-2015
+- This data is from County Public Health between the years 2014-2015, Provided by Prof. Gotzler
 > Original data was condensed to form the subset according to the steps in Unit_3_Project_Panda_Data
-- Data was provided by Professor Gotzler
+- Orginal data set can be found in data folder above
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's English 105 class Fall 2024 semester at the Univeristy of North Carolina at Chapel Hill.
