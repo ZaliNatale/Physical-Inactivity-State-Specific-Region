@@ -20,7 +20,7 @@ This repository contains data about Physical inactivity statistics in states of 
 
 - This data is from County Public Health between the years 2014-2015, Provided by Prof. Gotzler
 > Original data was condensed to form the subset according to the steps in Unit_3_Project_Panda_Data
-- Orginal data set can be found in data folder above
+- Orginal data set can be found in data folder above.
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's English 105 class Fall 2024 semester at the Univeristy of North Carolina at Chapel Hill.
