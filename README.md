@@ -16,9 +16,6 @@ This repository contains data about Physical inactivity statistics in states of 
 - This data could be used by doctors to help advise individuals about potiental negative affects of being physically inactive towards your overall health.
 - Individuals in the general public could also use this repository to create a subset for the region they live in.
 
-### Physical Inactivity Statistics
-Differences in Physical Inactivity by state within the South, Midwest, West, and Northeast region.
-
 ## Where is this data from?
 
 - This data is from County Public Health between the years 2014-2015, Provided by Prof. Gotzler
