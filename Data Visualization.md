@@ -5,3 +5,5 @@
 
 ### Physical Inactivity Statistics
 Differences in Physical Inactivity by state within the South, Midwest, West, and Northeast region.
+
+![QRKLj-physical-inactivity-statistics-by-region](https://github.com/user-attachments/assets/db594208-5b64-495d-8a2f-0d8614a2473d)
